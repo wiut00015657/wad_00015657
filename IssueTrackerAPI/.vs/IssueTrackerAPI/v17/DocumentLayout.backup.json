@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\issuetrackerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\issuetrackerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\dtos\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\dtos\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\migrations\\20241204080527_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\migrations\\20241204080527_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|c:\\users\\bobur\\desktop\\webdev cw\\garri\\wad_00015657\\issuetrackerapi\\issuetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EA6945C-CD76-40AB-AEC6-A7C3DDA71FED}|IssueTrackerAPI\\IssueTrackerAPI.csproj|solutionrelative:issuetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:22:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAwwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-06T13:36:59.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueTrackerAPI",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\IssueTrackerAPI.csproj",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\IssueTrackerAPI.csproj",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\IssueTrackerAPI.csproj",
+              "RelativeToolTip": "IssueTrackerAPI\\IssueTrackerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T13:36:02.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:22:15.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Controllers\\IssuesController.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Controllers\\IssuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:13:05.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Data\\GeneralDbContext.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Data\\GeneralDbContext.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Data\\GeneralDbContext.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Data\\GeneralDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:04:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\MappingProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\MappingProfiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:24:19.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\DTOs\\IssueDTO.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\DTOs\\IssueDTO.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\DTOs\\IssueDTO.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\DTOs\\IssueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:23:20.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:24:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Repositories\\IssueRepository.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Repositories\\IssueRepository.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Repositories\\IssueRepository.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Repositories\\IssueRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:31:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:12:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241204080527_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Migrations\\20241204080527_First Migration.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Migrations\\20241204080527_First Migration.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Migrations\\20241204080527_First Migration.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Migrations\\20241204080527_First Migration.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:37:08.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Program.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:02:51.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:44:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\Models\\Issue.cs",
+              "RelativeToolTip": "IssueTrackerAPI\\Models\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "IssueTrackerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bobur\\Desktop\\WebDev CW\\Garri\\wad_00015657\\IssueTrackerAPI\\IssueTrackerAPI\\appsettings.json",
+              "RelativeToolTip": "IssueTrackerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T08:02:09.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
