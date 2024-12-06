@@ -1,0 +1,38 @@
+<section class="wrapper">
+    <header class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-4">
+      <h2 class="title">Issue Directory</h2>
+      <a [routerLink]="'/issues/create'" class="btn btn-success">Add Issue</a>
+    </header>
+    
+    <div class="table-header row fw-semibold text-secondary border-bottom pb-2">
+      <div class="col">Issue ID</div>
+      <div class="col">Title</div>
+      <div class="col">Description</div>
+      <div class="col">Priority</div>
+      <div class="col">Status</div>
+      <div class="col">Due Date</div>
+      <div class="col text-center">Actions</div>
+    </div>
+  
+    @for (issue of (issues$ | async); track issue) {
+      <div class="table-row row border-bottom py-3 align-items-center">
+        <div class="col">{{ issue.id }}</div>
+        <div class="col">{{ issue.title }}</div>
+        <div class="col">{{ issue.description }}</div>
+        <div class="col">{{ issue.priority }}</div>
+        <div class="col">{{ issue.status }}</div>
+        <div class="col">{{ issue.dueDate.toString() }}</div>
+        <div class="col text-center">
+          <!-- Edit Button -->
+          <a [routerLink]="['/issues', issue.id]" class="btn btn-sm btn-outline-primary me-2">
+            <i class="bi bi-pencil"></i>
+          </a>
+          <!-- Delete Button -->
+          <button (click)="deleteIssue(issue.id)" class="btn btn-sm btn-outline-danger">
+            <i class="bi bi-trash"></i>
+          </button>
+        </div>
+      </div>
+    }
+  </section>
+  

@@ -1,0 +1,71 @@
+<div class="container mt-4">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+      <h2 class="mb-3 text-center">{{ isEdit ? 'Edit Issue' : 'Add Issue' }}</h2>
+  
+      <!-- Title -->
+      <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input formControlName="title" type="text" class="form-control" id="title" required />
+        @if (form.controls['title'].errors && form.controls['title'].touched) {
+          <span class="text-red-400">Title is required</span>
+        }
+      </div>
+  
+      <!-- Description -->
+      <div class="mb-3">
+        <label for="description" class="form-label">Description</label>
+        <textarea formControlName="description" class="form-control" id="description" rows="3" required></textarea>
+        @if (form.controls['description'].errors && form.controls['description'].touched) {
+          <span class="text-red-400">Description is required</span>
+        }
+      </div>
+  
+      <!-- Priority -->
+      <div class="mb-3">
+        <label for="priority" class="form-label">Priority (1-5)</label>
+        <input formControlName="priority" type="number" class="form-control" id="priority" required />
+        @if (form.controls['priority'].errors && form.controls['priority'].touched) {
+          <span class="text-red-400">Priority must be between 1 and 5</span>
+        }
+      </div>
+  
+      <!-- Status -->
+      <div class="mb-3">
+        <label for="status" class="form-label">Status</label>
+        <input formControlName="status" type="text" class="form-control" id="status" required />
+        @if (form.controls['status'].errors && form.controls['status'].touched) {
+          <span class="text-red-400">Status is required</span>
+        }
+      </div>
+  
+      <!-- Due Date -->
+      <div class="mb-3">
+        <label for="dueDate" class="form-label">Due Date</label>
+        <input formControlName="dueDate" type="date" class="form-control" id="dueDate" required />
+        @if (form.controls['dueDate'].errors && form.controls['dueDate'].touched) {
+          <span class="text-red-400">Due date is required</span>
+        }
+      </div>
+  
+      <!-- Employee Selection -->
+      <div class="mb-3">
+        <label for="employeeId" class="form-label">Assign to Employee</label>
+        <select formControlName="employeeId" class="form-select" id="employeeId" required>
+          <option value="" disabled selected>Select an employee</option>
+          @for (employee of (employees$ | async); track employee) {
+            <option [value]="employee.id">{{ employee.fullName }}</option>
+          }
+        </select>
+        @if (form.controls['employeeId'].errors && form.controls['employeeId'].touched) {
+          <span class="text-red-400">Employee is required</span>
+        }
+      </div>
+  
+      <!-- Buttons -->
+      <div class="d-flex justify-content-end">
+        <a [routerLink]="'/issues'" class="btn btn-secondary me-2">Cancel</a>
+        <button class="btn btn-primary">Submit</button>
+      </div>
+    </form>
+  </div>
+  

@@ -1,0 +1,39 @@
+<div class="container mt-4">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+      <h2 class="mb-3 text-center">{{ isEdit ? 'Edit Employee' : 'Add Employee' }}</h2>
+  
+      <!-- Full Name Field -->
+      <div class="mb-3">
+        <label for="fullName" class="form-label">Full Name</label>
+        <input formControlName="fullName" type="text" class="form-control" id="fullName" required>
+        @if (form.controls['fullName'].errors && form.controls['fullName'].touched) {
+          <span class="text-danger">Full name is required.</span>
+        }
+      </div>
+  
+      <!-- Email Field -->
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input formControlName="email" type="email" class="form-control" id="email" required>
+        @if (form.controls['email'].errors && form.controls['email'].touched) {
+          <span class="text-danger">Please enter a valid email.</span>
+        }
+      </div>
+  
+      <!-- Position Field -->
+      <div class="mb-3">
+        <label for="position" class="form-label">Position</label>
+        <input formControlName="position" type="text" class="form-control" id="position" required>
+        @if (form.controls['position'].errors && form.controls['position'].touched) {
+          <span class="text-danger">Position is required.</span>
+        }
+      </div>
+  
+      <!-- Submit and Cancel Buttons -->
+      <div class="d-flex justify-content-end">
+        <a [routerLink]="'/employees'" class="btn btn-secondary me-2">Cancel</a>
+        <button class="btn btn-primary" [disabled]="form.invalid">Submit</button>
+      </div>
+    </form>
+  </div>
+  

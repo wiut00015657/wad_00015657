@@ -1,0 +1,34 @@
+<section class="wrapper">
+    <header class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-4">
+      <h2 class="title">Employee Directory</h2>
+      <a [routerLink]="'/employees/create'" class="btn btn-success">Add Employee</a>
+    </header>
+    
+    <div class="table-header row fw-semibold text-secondary border-bottom pb-2">
+      <div class="col">Employee ID</div>
+      <div class="col">Name</div>
+      <div class="col">Position</div>
+      <div class="col text-center">Actions</div>
+    </div>
+    @for (employee of (employees$ | async); track employee) {
+        <div class="table-row row border-bottom py-3 align-items-center">
+        
+            <div class="col">{{ employee.id }}</div>
+            <div class="col">{{ employee.fullName }}</div>
+            <div class="col">{{ employee.email }}</div>
+            <div class="col">{{ employee.position }}</div>
+            <div class="col text-center">
+              <!-- Edit Button -->
+              <a [routerLink]="['/employees', employee.id]" class="btn btn-sm btn-outline-primary me-2">
+                <i class="bi bi-pencil"></i>
+              </a>
+              <!-- Delete Button -->
+              <button (click)="deleteEmployee(employee.id)" class="btn btn-sm btn-outline-danger">
+                <i class="bi bi-trash"></i>
+              </button>
+            </div>
+          </div> 
+    }
+    
+  </section>
+  
